@@ -1,0 +1,76 @@
+La RepRap Galileo è la prima stampante 3D opensource ideata da un team italiano-Team Kent's Strapper-.E' derivata dal modello della RepRap Prusa da cui derivano il movimento degli assi X,Y,Z ma sono state apportate modifiche sostanziali che hanno permesso di ottenere una maggior area di stampa e un minor costo di realizzazione
+
+
+
+
+Contents
+[hide]
+
+    1 Index
+    2 Perche una nuova stampante??
+        2.1 Le Premesse
+        2.2 Dimensioni Ingrandite
+        2.3 Struttura a risparmio
+        2.4 Open Design
+        2.5 Elettronica
+    3 Benefici Del Modello:
+    4 Immagini Struttura
+        4.1 Dove acquistare
+        4.2 Video Correlati
+        4.3 Cosa serve per fare una Galileo
+        4.4 Assemblare Galileo
+        4.5 Parte I
+        4.6 Parte II
+        4.7 Parte III
+        4.8 Parte IV
+        4.9 Parte V
+        4.10 Parte VI
+        4.11 Parte VII
+        4.12 Parte VIII
+        4.13 Parte IX
+        4.14 Parte X
+        4.15 Parte XI
+        4.16 Collegamenti elettrici
+
+Index
+
+Il team Kent's Strapper ha aperto nella città di Firenze il primo centro italiano RepRap in cui si localizza sia il negozio sia il centro espositivo: vengono esposte Reprap Huxley,Prusa,Mendel e Rapman oltre al modello di loro realizzazione Archimede.Partendo dall'analisi delle strutture delle stampanti precedenti RepRap e derivate, sono state ricercate le condizioni per poter sviluppare un nuovo modello denominato Galileo in onore del grande sienziato
+
+
+Stampante 3d Galielo by Kent's Strapper
+Perche una nuova stampante??
+
+Occorre in breve spiegare ciò che ha spinto il team Kent's Strapper a sviluppare una nuova stampante e le premesse
+
+
+Le Premesse
+
+La RepRap Prusa ha un design intuitivo ed un sistema di assemblaggio semplice e facile,le parti plastiche che compongono la struttura sono maneggevoli e non richiedono grande difficoltà nel montarle con la struttura meccanica, inoltre permettono di ottenere risultati anche senza avere cuscinetti lineari ed altre agevolazioni.La struttura finale è solida e permette un facile trasporto grazie al peso esiguo.
+
+
+Dimensioni Ingrandite
+
+Trovandosi a stampare un modello di un'action figures di 160mm di altezza in un pezzo unico la RepRap Prusa non poteva andare bene, per cui il primo passo è stato aumentare le dimensioni in proporzione alla struttura soprattutto tenendo conto delle misure che si sarebbero riversate sulle cinghie.La struttura è stata cosi sviluppata in maniera tale da avere un maggiore spazio di stampa.
+Struttura a risparmio
+
+Un altra sostanziale modifica ha interessato la Struttura Meccanica della nuova stampante.E' stata individuata una nuova struttura che potesse utilizzare un minor numero di pezzi ed avere sempre solidità.Oltre alla parte meccanica anche i pezzi plastici sono stati modificati dove possibile o rinnovati completamente.Tutto ciò ha portato ad avere un risparmio in termini economici ma anche in termini di tempo necessario per assemblare la stampante stessa
+Open Design
+
+La struttura della nuova stampante ha fatto si di avere un design aperto a modifiche successive su ogni sua parte, inoltre il carrello dell'asse X-dove si muove l'estrusore- è stato realizzato in modo tale da essere universale ed utilizzabile con ogni tipologia di estrusore.L'area di stampa è facilmente accessibile sia per posizionare un piatto riscaldato sia per poter analizzare l'oggetto in stampa ed intervenire
+Elettronica
+
+Il modello Galileo non ha un elettronica fissa poiche è compatibile con tutte le tipologie di quelle in commerciò,ciò che cambiano sono gli STEP_FOR_MM che saranno riportati nella sezione Firmware
+Benefici Del Modello:
+
+    *Modello facile e veloce da assemblare
+    *Pezzi plastici intuitivi: facili da assemblare e stampare
+    *Numero barre filettate inferiore
+    *Numero barre liscie inferiore
+    *Quantità bulloneria inferiore
+    *Cinghie più corte
+    *Open Design
+    *Estrusore in vista
+    *Carrello X compatibile con tutte le tipologie di estrusori disponibili
+    *Area di stampa facilmente accessibile
+    *Stampa degli oggetti in vista
+    *Assistenza Italiana kentstrapper@gmail.com 
